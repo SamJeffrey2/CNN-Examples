@@ -1,3 +1,5 @@
+This contains all the code that I ran for the CNN examples
+
 VGG CIFAR10 had a very low accuracy of only 10%
 CIFAR10 Classification TransferLearning had an accuracy of 98%
 LeNET had a test accuracy of almost 99%
