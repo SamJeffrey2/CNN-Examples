@@ -1,0 +1,8 @@
+VGG CIFAR10 had a very low accuracy of only 10%
+CIFAR10 Classification TransferLearning had an accuracy of 98%
+LeNET had a test accuracy of almost 99%
+Fashion had a test accuracy of almost 90%
+CNN CIFAR10 had an accuracy of 50%
+
+These test overall had a high accuracy with LeNET and TransferLearning being the highest
+CNN CIFAR10 had the lowest accuracy
